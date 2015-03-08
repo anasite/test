@@ -9,5 +9,7 @@ public class Tesr {
 		OmarClass oclass = new OmarClass();
 		
 		myWalo = oclass.walo();
+		
+		System.out.println(myWalo);
 	}
 }
