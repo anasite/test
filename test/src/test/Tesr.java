@@ -10,8 +10,4 @@ public class Tesr {
 		
 		myWalo = oclass.walo();
 	}
-	
-	public void main(){
-		this.sysoutCl();
-	}
 }
