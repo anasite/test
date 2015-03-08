@@ -7,6 +7,8 @@ public class Main {
 		Tesr tsr = new Tesr();
 		
 		tsr.sysoutCl();
+		
+		System.out.println("8855");
 	}
 
 }
